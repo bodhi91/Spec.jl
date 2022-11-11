@@ -1,4 +1,4 @@
-module Spectral
+module SpectralAPI
 
 using LDLFactorizations
 using Statistics
